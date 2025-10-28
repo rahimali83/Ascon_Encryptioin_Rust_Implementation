@@ -2,7 +2,8 @@
 
 A comprehensive Rust implementation of the **Ascon-AEAD128** lightweight cryptographic algorithm as specified in **NIST SP 800-232**. This project provides authenticated encryption with associated data (AEAD) in a clean, modular, and well-tested implementation.
 
-Note: This code has not been security tested therefore please use cauton if you are planing to use it in production. 
+Note: This implementation is for educational and experimental purposes. Do not use in production without thorough review, testing against official test vectors, and hardening.
+
 ---
 
 ## Table of Contents
