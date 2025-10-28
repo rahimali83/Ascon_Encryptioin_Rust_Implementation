@@ -1,8 +1,16 @@
 [package]
-name = "ascon_encryption"
+name = "Ascon_Encryptioin"
 version = "0.1.0"
 edition = "2021"
 authors = ["Your Name"]
+
+[lib]
+name = "ascon_encryptioin"
+path = "src/lib.rs"
+
+[[bin]]
+name = "Ascon_Encryptioin"
+path = "src/main.rs"
 
 [[bin]]
 name = "ascon"

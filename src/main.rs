@@ -4,8 +4,8 @@
 /// Supports file and string encryption/decryption with both CLI and interactive modes.
 
 use anyhow::{Context, Result};
-use ascon_encryption::{decrypt, encrypt, generate_key, generate_nonce};
-use ascon_encryption::{KEY_SIZE, NONCE_SIZE, TAG_SIZE};
+use ascon_encryptioin::{decrypt, encrypt, generate_key, generate_nonce};
+use ascon_encryptioin::{KEY_SIZE, NONCE_SIZE, TAG_SIZE};
 use clap::{Parser, Subcommand};
 use std::fs;
 use std::io::{self, Write};
