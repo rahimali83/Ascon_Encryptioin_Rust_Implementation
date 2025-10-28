@@ -1,4 +1,4 @@
-# Ascon Encryption Implementation
+# Ascon_Encryptioin_Rust_Implementation
 
 A comprehensive Rust implementation of the **Ascon-AEAD128** lightweight cryptographic algorithm as specified in **NIST SP 800-232**. This project provides authenticated encryption with associated data (AEAD) in a clean, modular, and well-tested implementation.
 
