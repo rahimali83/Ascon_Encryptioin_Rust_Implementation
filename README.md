@@ -26,14 +26,14 @@ Note: This implementation is for educational and experimental purposes. Do not u
 
 ## Features
 
-✅ **Ascon-AEAD128** - Full implementation of authenticated encryption with associated data
-✅ **Dual Interface** - Both command-line and interactive menu-driven modes
-✅ **File & String Support** - Encrypt/decrypt files or text strings
-✅ **Metadata Management** - Save and load encryption keys, nonces, and tags
-✅ **128-bit Security** - Industry-standard security strength
-✅ **Modular Design** - Clean separation of cryptographic primitives
-✅ **Comprehensive Testing** - 30+ unit tests covering all edge cases
-✅ **IDE Compatible** - Works with RustRover, VSCode, and other Rust IDEs
+- ✅ **Ascon-AEAD128** - Full implementation of authenticated encryption with associated data
+- ✅ **Dual Interface** - Both command-line and interactive menu-driven modes
+- ✅ **File & String Support** - Encrypt/decrypt files or text strings
+- ✅ **Metadata Management** - Save and load encryption keys, nonces, and tags
+- ✅ **128-bit Security** - Industry-standard security strength
+- ✅ **Modular Design** - Clean separation of cryptographic primitives
+- ✅ **Comprehensive Testing** - 30+ unit tests covering all edge cases
+- ✅ **IDE Compatible** - Works with RustRover, VSCode, and other Rust IDEs
 
 ---
 
